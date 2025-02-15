@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimbomctavish
 - 👀 I’m interested in HTML stuff
-- 🌱 I’m currently learning about your mum
+- 🌱 I’m currently learning about your mom
 - 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me ...
 
