@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimbomctavish
-- 👀 I’m interested in Raspberry Pi projects and some Linux stuff
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in HTML stuff
+- 🌱 I’m currently learning about your mum
 - 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me ...
 
